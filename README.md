@@ -1,10 +1,10 @@
-# jsminesweeper
+# jsminesweeper created with es2015 code
 
-no server needed, just open the html file in the browser
+## How to play
+No server needed, just open the html file in the browser. But first build the JS file!
 
-## es2015
-
-I created this project to practice a bit modern javascript. To transpile it to es5 js use babel. First install babel and the es2015 preset:
+## Transpile es2015 to es5 JS
+I created this project to practice a bit modern javascript. To transpile it to es5 JS use babel. First install babel and the es2015 preset:
 ```
 npm install
 ```
