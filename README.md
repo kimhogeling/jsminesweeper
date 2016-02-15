@@ -25,3 +25,6 @@ when using `babel`, simply add the `-w` argument to watch for changes during edi
 ```bash
 babel src --no-comments --minified -w -o lib/game.js
 ```
+
+## TODO
+Make apps out of it for linux, mac and windows with http://appjs.com/ and phone apps with http://phonegap.com/
