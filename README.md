@@ -7,24 +7,24 @@ No server needed, just open the index.html file in the browser.
 
 ## Transpile es2015 to es5
 I created this project to practice some es2015. To transpile it to es5 use babel. First install babel and the es2015 preset:
-```
+```shell
 npm install
 ```
 
 and then build into `/lib/` either with `npm`:
 
-```bash
+```shell
 npm run build
 ```
 
 or directly with `babel`:
 
-```bash
+```shell
 babel src --no-comments --minified -o lib/game.js
 ```
 
 when using `babel`, simply add the `-w` argument to watch for changes during editing the files in `/src/`:
-```bash
+```shell
 babel src --no-comments --minified -w -o lib/game.js
 ```
 
