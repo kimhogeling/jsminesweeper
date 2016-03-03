@@ -1,7 +1,7 @@
 {
-  "name": "Minesweeper",
+  "name": "minesweeper",
   "version": "2.0.0",
-  "description": "Minesweeper made with electron",
+  "description": "minesweeper created on Electron with es2015 code",
   "main": "main.js",
   "devDependencies": {
     "electron-prebuilt": "^0.36.9"
