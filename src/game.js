@@ -1,3 +1,5 @@
+'use strict';
+
 const BOARD_SIZE = 8
 
 class Game {

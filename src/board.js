@@ -1,3 +1,5 @@
+'use strict';
+
 const BOMB_CHANCE = 0.6;
 const BOMB_ICON = '💣';
 const PARTY_ICON = '🎉';
